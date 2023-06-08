@@ -3,7 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Performing Networking Activities within Azure VMs](https://github.com/kylesuzuki/net-activities)
+  - [Azure Account and Storage Lab: File Management and Resource Group Operations](https://github.com/kylesuzuki/azure-prereq)
+  - [Networking Lab: Activities within Azure VMs](https://github.com/kylesuzuki/net-activities)
   - [Active Directory Lab: User Authentication and Access Control Simulation in Azure](https://github.com/kylesuzuki/ad-sim)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
