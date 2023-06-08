@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Performing Networking Activities within Azure VMs](https://github.com/kylesuzuki/net-activities)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kylesuzuki/ostickets-prereqs)
 
-- <b>Microsoft Azure</b>
-  - [Performing Networking Activities within Azure VMs](https://github.com/kylesuzuki/net-activities)
+- <b>Active Directory</b>
+  - [Active Directory Lab: User Authentication and Access Control Simulation in Azure](https://github.com/kylesuzuki/ad-ds-sim)
 
 <h2>🤳Connect with me:</h2>
 
