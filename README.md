@@ -4,10 +4,10 @@
 
 - <b>Microsoft Azure</b>
   - [Performing Networking Activities within Azure VMs](https://github.com/kylesuzuki/net-activities)
+  - [Active Directory Lab: User Authentication and Access Control Simulation in Azure](https://github.com/kylesuzuki/ad-sim)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kylesuzuki/ostickets-prereqs)
-  - [Active Directory Lab: User Authentication and Access Control Simulation in Azure](https://github.com/kylesuzuki/ad-sim)
 
 <h2>🤳Connect with me:</h2>
 
