@@ -7,8 +7,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kylesuzuki/ostickets-prereqs)
-
-- <b>Active Directory</b>
   - [Active Directory Lab: User Authentication and Access Control Simulation in Azure](https://github.com/kylesuzuki/ad-ds-sim)
 
 <h2>🤳Connect with me:</h2>
