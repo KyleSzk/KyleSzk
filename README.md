@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle, an <a href="https://www.linkedin.com/in/kyle-suzuki-9119b076/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kyle, an <a href="https://www.linkedin.com/in/kyle-suzuki-9119b076/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
