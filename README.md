@@ -7,9 +7,6 @@
   - [Networking Lab: Activities within Azure VMs](https://github.com/kylesuzuki/net-activities)
   - [Active Directory Lab: User Authentication and Access Control Simulation in Azure](https://github.com/kylesuzuki/ad-sim)
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kylesuzuki/ostickets-prereqs)
-
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Kyle | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
